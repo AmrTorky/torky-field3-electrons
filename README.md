@@ -1,1 +1,1 @@
-# Scientist Amr Torky — Field 3: Electron Fields & Quantum Regularization
+# Scientist Amr Torky — torky-field3-electrons
